@@ -1,6 +1,6 @@
 ### README.md
 
-```markdown
+
 # YouTube Video Downloader
 
 ## Introduction
@@ -25,7 +25,7 @@ and Pytube for direct video downloading. Additionally, FFmpeg is used for proces
 To install the required dependencies, run:
 ```bash
 pip install -r requirements.txt
-```
+
 
 ## Usage
 To use the YouTube Video Downloader, run the `main.py` script with the necessary arguments:
