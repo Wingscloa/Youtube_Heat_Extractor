@@ -1,5 +1,3 @@
-Thank you for the correction. I'll update the README to reflect the accurate command-line arguments.
-
 ### README.md
 
 ```markdown
@@ -79,7 +77,7 @@ Here are some example commands to use the tool:
 If you encounter issues with web drivers, ensure they are up-to-date and compatible with your browser version. The `webdriver-manager` package can assist with managing web driver versions.
 
 ## Contributors
-- [Your Name] - Initial work
+- [Wingscloa] - Initial work
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
