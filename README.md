@@ -4,7 +4,9 @@
 # YouTube Video Downloader
 
 ## Introduction
-The YouTube Video Downloader is a Python-based tool designed to download videos from YouTube. It leverages the power of Selenium for browser automation, BeautifulSoup for web scraping, and Pytube for direct video downloading. Additionally, FFmpeg is used for processing and conversion of video files.
+The YouTube Video Downloader is a Python-based tool designed to download videos from YouTube.
+It leverages the power of Selenium for browser automation, BeautifulSoup for web scraping,
+and Pytube for direct video downloading. Additionally, FFmpeg is used for processing and conversion of video files.
 
 ## Table of Contents
 - [Introduction](#introduction)
